@@ -5,3 +5,5 @@ This experiment was interesting because it wasn't simply a facial recognition pr
 I could have improved on several things--namely more data... I could have allowed for random flipping/cropping of the images, I could have used a model other than Inception (maybe there exists a model out there that's better at classifying specifically humans, not just dog breeds and cars and stuff), I could have used something other than Matlab to display the results so that the formatting wouldn't look so bad. But honestly, this project was just for fun, and it's nice that it wasn't more than a day's work. 
 
 By the way, machine learning is totally accessible, and you can do it too. Happy training :)
+
+![Classification Results](highlight_results.png)
